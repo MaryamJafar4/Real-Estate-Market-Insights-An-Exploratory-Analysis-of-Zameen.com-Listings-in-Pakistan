@@ -58,5 +58,5 @@ This project explores and analyzes a dataset of **18,239 property listings** fro
 - **Pandas & NumPy**: Data wrangling and preprocessing  
 - **Matplotlib & Seaborn**: Data visualization  
 - **FuzzyWuzzy**: String matching for city name standardization  
-- **Jupyter Notebook**: Analysis environment  
+- **Colab Notebook**: Analysis environment  
 
